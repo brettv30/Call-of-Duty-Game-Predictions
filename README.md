@@ -12,7 +12,7 @@ Interestingly enough, the Random Forest Model that was built found that one of t
 2. See how well we can predict a team's Wins and Losses
 
 # What did I do?
-I used data from 17 different CWL tournaments spanning two years. The datasets can be found within this Activision repository hosted [here](https://github.com/Activision/cwl-data). I decided to exclude the data from the 2017 CWL Champsionships tournament because that set did not have all Search & Destroy variables that the rest of the data had. The final dataset ended up being (xxx) observations with (xxx) variables. All variables were treated as continuous, there were no categorical variables within the data besides the binary indicator for the outcome of the match. 
+I used data from 17 different CWL tournaments spanning two years. The datasets can be found within this Activision repository hosted [here](https://github.com/Activision/cwl-data). I decided to exclude the data from the 2017 CWL Champsionships tournament because that set did not have all Search & Destroy variables that the rest of the data had. The final dataset ended up having 3,128 observations with 30 variables. In total, there are 1,564 Search & Destroy matches in this dataset. All variables were treated as continuous, there were no categorical variables within the final data used for modeling besides the binary indicator for the outcome of the match. 
 
 In order to reach the first goal of this project, I created a Logistic Regression model to pull some explain-ability from each of the variables in the dataset. To reach the second goal of this project, I elected to use both Random Forest and XGBoost for classification to try and find the best model possible at predicting game outcomes. 
 
@@ -24,6 +24,6 @@ In order to reach the first goal of this project, I created a Logistic Regressio
 
 
 # What have I learned?
-
+As noted above, I found that even though the Random Forest model had the highest AUC value on training data it did not transfer over to complete success on test data. Taking my time and really sifting through each possible model for the Logistic Regression model seemed to pay off more in this instance. I found this aspect of the project very interesting because it shows exactly how strong Logistic Regression can be when handled with care. 
 
 This was the first project that I have completed in Python and it has really boosted my overall confidence with the language. It felt like a different way of thinking than when I have used R in the past, and its a language I want to continue using to polish my skills! I am now especially comfortable using `numpy`, `pandas`, `matplotlib`, and `sklearn`. 
