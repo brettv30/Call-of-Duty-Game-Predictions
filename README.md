@@ -1,5 +1,7 @@
 # Call of Duty World League: Search & Destroy Outcome Predictions
-This is an analysis done on the Search & Destroy games played during the 2018 and 2019 seasons of the Call of Duty World League. 
+![CWL Image](https://charlieintel.com/wp-content/uploads/2017/10/be476c3b-9364-44f0-a9a3-7d8b482515b8.jpg)
+
+
 
 # Project Goals
 1. Learn about the important factors that play into a team's Wins and Losses for Search & Destroy Matches
