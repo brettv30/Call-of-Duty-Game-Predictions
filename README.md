@@ -26,4 +26,4 @@ In order to reach the first goal of this project, I created a Logistic Regressio
 # What have I learned?
 
 
-This was the first project that I have completed in Python and it has really boosted my overall confidence with the language. It felt like a different way of thinking than when I have used R in the past, and its a language I want to continue using to polish my skills! I am now especially comfortable using numpy, pandas, matplotlib, and sklearn. 
+This was the first project that I have completed in Python and it has really boosted my overall confidence with the language. It felt like a different way of thinking than when I have used R in the past, and its a language I want to continue using to polish my skills! I am now especially comfortable using `numpy`, `pandas`, `matplotlib`, and `sklearn`. 
