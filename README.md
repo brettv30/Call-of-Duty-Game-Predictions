@@ -45,8 +45,3 @@ From my Logistic Regression model, I found that a team's odds of winning the ent
 I recommend that professional COD teams looking to up their Search & Destroy win percentage need to find and recruit players with a high amount of bomb defuses and many headshots in Search & Destroy games. If I were a coach, I would be looking to grab `Arcitys`, `Zer0`,  `Clayster`, `Rated`, & `Silly`. These are five players who have a high count of headshots and defuses in Search & Destroy matches. 
 
 If you are curious to learn about the essential variables in the XGBoost model, head over [here](https://github.com/brettv30/Call-of-Duty-Game-Predictions/blob/main/Model%20Assessment%20Visuals/XGBoost%20Variable%20Importance.png)!
-
-# What have I learned?
-I had a ton of fun working on this project! My favorite part was finding out how well my Logistic Regression model did on test data and interpreting these results. I feel much more confident now with the entire modeling process and how to apply these techniques to real-world projects. 
-
-On the technical side of things, this was the first project I completed in Python, and it has boosted my overall confidence with the language. Going through this project, I felt like using Python required a different way of thinking about the problem than if I had used R. I welcome this new way of thinking with open arms! I am now especially comfortable using `numpy`, `pandas`, `matplotlib`, and `sklearn`!
